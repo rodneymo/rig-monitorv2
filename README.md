@@ -5,6 +5,10 @@ This is the rig-monitor implementation in Go.
 
 The alpha version, which will include the following features:
 
+* single file execution with support for logging, tracing
+* custom config file replaced with toml-based config file
+* ability to pool hundreds of rigs and dozens of pools simulatenously
+* configurable polling times
 * miner support
   * claymore (tested v11.6)
   * xmr-stak (tested v2.4.2)
