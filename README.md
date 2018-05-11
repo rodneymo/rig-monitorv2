@@ -3,7 +3,7 @@ rig-monitor implementation in Golang
 
 This is the rig-monitor implementation in Go.  
 
-The alpha version, which will include the following features:
+The currrent beta version, includes the following features:
 
 * single file execution with support for logging, tracing
 * custom config file replaced with toml-based config file
@@ -32,9 +32,6 @@ The alpha version, which will include the following features:
   * windows/i386
   * windows/x86-64
 
-The following features are not part of the release and will be included in the beta release in 1-2 weeks' time:
-* Updated dashboards. In the meantime take the influx branch mentioned above and fine tune them to your needs. The influxDB data model is very much the same with some minor changes.
-* Profitability calculation and dashboard
 If you need support for other miners, pools, smart-plugs or for bug reporting, new feature request etc... then submit a new issue on the github project here:https://github.com/rodneymo/rig-monitorv2/issues
 
 rodneymo
