@@ -26,7 +26,7 @@ The currrent beta version, includes the following features:
   * raspberry Pi 1 Model B/ARMv6
   * raspberry Pi 2/ARMv7
   * raspberry Pi 2 v1.2 /ARMv8
-  *raspberry Pi 3 Model B ARMv8
+  * raspberry Pi 3 Model B ARMv8
   * linux/x86-64
   * macOS/x86-64
   * windows/i386
