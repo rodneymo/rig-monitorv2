@@ -1,5 +1,3 @@
-[New version]rig-monitor now supports Wemo plugs,FairPool,power reset triggers
-
 # rig-monitorv2
 rig-monitor implementation in Golang
 
