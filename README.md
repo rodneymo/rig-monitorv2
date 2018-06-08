@@ -1,7 +1,7 @@
 # rig-monitorv2
 rig-monitor implementation in Golang
 
-This is the rig-monitor implementation in Go.  
+This is the rig-monitor implementation in Go. You can download it here:  https://github.com/rodneymo/rig-monitorv2/releases
 
 The currrent 2.2 version, includes the following features:
 
