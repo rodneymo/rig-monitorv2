@@ -15,7 +15,7 @@ Complete feature list:
   * Xmr-stak (tested v2.4.2)
   * Sgminer (tested v5.5.5)
   * SRBMiner
-  * XMRig-proxy (tested v5.5.5)
+  * XMRig-proxy
   * PhoenixMiner (tested v2.9e)
   * CastXmr
 * pool support
